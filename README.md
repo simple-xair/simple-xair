@@ -12,7 +12,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simple-xair)
+<img src="https://count.getloli.com/@simple-xair?theme=booru-helltaker"/>
 ‍
 
 

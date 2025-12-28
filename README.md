@@ -12,7 +12,7 @@
 
 ---
 
-![simple-xair's GitHub stats](https://github-readme-stats.vercel.app/api?username=simple-xair)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simple-xair)
 ‍
 
 

@@ -1,16 +1,18 @@
-## Hi there 👋
+##  
+<h1 align="center">Hi 👋， Welcome to my github</h1>
 
-<!--
-**simple-xair/simple-xair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一起学习✨
 
-Here are some ideas to get you started:
+Read more about my CSDN: [here](https://blog.csdn.net/weixin_46654114?type=blog)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Analytics
+
+<div>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Rodma1&show_icon链=true&theme=flag-india" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodma1&show_icons=true&theme=flag-india&layout=compact" />
+</div>
+
+### ✨Visitors
+[![ViewCount](https://views.whatilearened.today/views/github/Rodma1/Rodma1.svg?cache=remove)](#)
+
+---

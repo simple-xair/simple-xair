@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm YOUR_NAME 👋</h1>
+<h1 align="center">Hi, I'm simple-xair 👋</h1>
 
 <p align="center">
   <strong>Software Engineer · Open Source Enthusiast · Lifelong Learner</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=YOUR_USERNAME&left_color=gray&right_color=blue" />
+  <a href="https://github.com/simple-xair">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=simple-xair&left_color=gray&right_color=blue" />
   </a>
 </p>
 
@@ -42,8 +42,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=simple-xair&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simple-xair&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=simple-xair&theme=tokyonight" />
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simple-xair&theme=tokyo-night" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=simple-xair&theme=onedark&row=1&column=6" />
 </p>
 
 ---
@@ -94,6 +94,4 @@
 
 ## 📫 Contact
 
-- GitHub: https://github.com/YOUR_USERNAME
-- Blog: https://your-blog.com
-- Email: your@email.com
+- GitHub: https://github.com/simple-xair
